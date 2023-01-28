@@ -29,3 +29,5 @@ En sondan başlanarak diziler sıralı bir şekilde birleştirilir.
 Yukarıda verilen dizinin Big-O gösterimini yazınız.
 
 Her adımda oluşan diziler ikiye bölündüğü için her adımda n elemana karşı logn kadar işlem yaparız. Böylelikle big o notation gösterimi O(nlogn) olur.
+
+https://app.patika.dev/yarenozel
