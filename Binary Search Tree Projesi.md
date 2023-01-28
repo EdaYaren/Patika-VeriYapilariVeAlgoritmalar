@@ -25,5 +25,4 @@ PROJE 3
 10.adım: Dizide yer alan onuncu eleman root ile karşılaştırılır. 2 root olarak alınan 7’den küçük olduğu için sol dal, sol dalda 5’den küçük olduğu için tekrar sol dalı, 1’den büyük olduğu için sağ dalı takip eder. 2 elemanı 3’den küçük olduğu için 3’den sonra sol dala yazılır.
  
 
-
-VERİ YAPILARI VE ALGORİTMALAR
+https://app.patika.dev/yarenozel
