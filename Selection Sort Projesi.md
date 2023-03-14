@@ -2,8 +2,7 @@
 
 ## PROJE 1
 
-* [22,27,16,2,18,6] 
-Yukarıda verilen dizinin insertion sort türüne göre aşamalarını yazınız.
+* [22,27,16,2,18,6] Yanda verilen dizinin insertion sort türüne göre aşamalarını yazınız.
     
 1.adım: [2,27,16,22,18,6]
 
