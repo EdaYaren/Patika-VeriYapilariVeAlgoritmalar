@@ -58,4 +58,4 @@ Dizideki ilk iki eleman atlanarak diğer elemanlar incelenir ve üçüncü en k�
 
 Dizideki ilk üç eleman atlanarak diğer elemanlar incelenir ve dördüncü en küçük eleman 5 olarak belirlenir.  Bulunan elemanın en başta dördüncü sırada yer alan 8 ile yerleri değiştirilir.
 
-`https://app.patika.dev/yarenozel`
+[https://app.patika.dev/yarenozel](https://app.patika.dev/yarenozel)
