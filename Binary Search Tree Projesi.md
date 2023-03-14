@@ -1,8 +1,8 @@
-VERİ YAPILARI VE ALGORİTMALAR
+# VERİ YAPILARI VE ALGORİTMALAR
 
-PROJE 3
+## PROJE 3
 
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+* [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 1.adım: Dizinin ilk elemanı olan 7 root olarak seçilir.
 
@@ -25,4 +25,4 @@ PROJE 3
 10.adım: Dizide yer alan onuncu eleman root ile karşılaştırılır. 2 root olarak alınan 7’den küçük olduğu için sol dal, sol dalda 5’den küçük olduğu için tekrar sol dalı, 1’den büyük olduğu için sağ dalı takip eder. 2 elemanı 3’den küçük olduğu için 3’den sonra sol dala yazılır.
  
 
-https://app.patika.dev/yarenozel
+[https://app.patika.dev/yarenozel](https://app.patika.dev/yarenozel)
